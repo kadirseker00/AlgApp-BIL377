@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'tr' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <header class="site-header" role="banner">
+        <div class="wrapper">
+          <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          <nav class="site-nav">
+            <a href="{{ '/syllabus' | relative_url }}">Syllabus</a> ·
+            <a href="{{ '/lectures' | relative_url }}">Ders Programı</a> ·
+            <a href="{{ '/assignments' | relative_url }}">Ödevler</a> ·
+            <a href="{{ '/resources' | relative_url }}">Kaynaklar</a>
+          </nav>
+        </div>
+      </header>
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+      <footer class="site-footer">
+        <div class="wrapper">
+          <span class="badge">2025-2026</span>
+          <span class="badge">{{ site.author.name }}</span>
+          <span class="badge">{{ site.email }}</span>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

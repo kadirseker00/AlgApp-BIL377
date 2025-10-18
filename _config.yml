@@ -1,0 +1,19 @@
+title: "Ders Adı (Örnek: Doğal Dil İşleme)"
+description: "Ders kaynakları, haftalık plan ve duyurular"
+lang: tr
+theme: minima
+author:
+  name: "Dr. Abdulkadir Şeker"
+  email: "info@moledro.com"
+minima:
+  skin: classic
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+# Menu links (navbar)
+header_pages:
+  - syllabus.md
+  - lectures.md
+  - assignments.md
+  - resources.md

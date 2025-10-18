@@ -1,0 +1,13 @@
+/* Basit stiller */
+:root { --accent: #0f766e; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+.page-content { font-size: 18px; }
+.site-title, .site-title:visited { color: var(--accent) !important; }
+blockquote { border-left: 4px solid var(--accent); padding-left: 12px; color: #333; }
+.callout { border: 1px solid #e5e7eb; border-left: 4px solid var(--accent); padding: 12px; border-radius: 8px; background: #f8fafc; }
+.badge { display:inline-block; padding:2px 8px; border-radius:999px; border:1px solid #e5e7eb; margin-right:6px; }
+h1, h2, h3 { scroll-margin-top: 80px; }
+table { width:100%; border-collapse: collapse; }
+th, td { border:1px solid #e5e7eb; padding:8px; }
+thead th { background:#f3f4f6; }
