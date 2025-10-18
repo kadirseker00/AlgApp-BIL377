@@ -14,7 +14,7 @@ Bilgisayar Mühendisliği
 - **İletişim:** abdulkadir.seker@manas.edu.tr
 
 ## Haftalık Plan
-Ayrıntılar için **[/lectures)** sayfasını ziyaret edin.
+Ayrıntılar için **[İçerik](/lectures)** sayfasını ziyaret edin.
 
 ## Hızlı Bağlantılar
 - 📄 [Syllabus](/syllabus)
