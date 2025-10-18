@@ -2,14 +2,16 @@
 layout: home
 title: "Ana Sayfa"
 ---
+BIL-377 
+Bilgisayar Mühendisliği
 
-> **Duyuru:** İlk ders  **27 Ekim** tarihinde, **B-202** sınıfında yapılacaktır. LMS linki ve Zoom kaydı bu sayfaya eklenecektir.
+> **Duyuru:** Ders Salı günleri saat clock1330 'da , **MFFB-523** sınıfında yapılacaktır.
 
 ## Ders
-- **Ders Adı:** Doğal Dil İşleme (Örnek)
-- **Yürütücü:** Dr. Abdulkadir Şeker (hocam)
+- **Ders Adı:** ALGORİTMA UYGULAMALARI
+- **Yürütücü:** Dr. Abdulkadir ŞEKER
 - **Dönem:** 2025-2026 Güz
-- **İletişim:** info@moledro.com
+- **İletişim:** abdulkadir.seker@manas.edu.tr
 
 ## Haftalık Plan
 Ayrıntılar için **[Ders Programı](/lectures)** sayfasını ziyaret edin.
