@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ders Programı
+title: içerik
 permalink: /lectures
 ---
 
