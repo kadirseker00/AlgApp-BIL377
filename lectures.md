@@ -9,14 +9,11 @@ Aşağıdaki tablo, haftalık konu akışını içerir. Slaytlar ve notlar ders 
 | Hafta | Konu | Materyal |
 |---|---|---|
 | 1 | Tanışma, ders içeriği, beklentiler | — |
-| 2 | Metin ön işleme, tokenizasyon, lemmatizasyon | [notlar/hafta02.pdf](#) |
-| 3 | N-gramlar, dil modelleri | [slaytlar/hafta03.pdf](#) |
-| 4 | Word embeddings, Word2Vec/GloVe | — |
-| 5 | RNN/LSTM, dil modelleme | — |
-| 6 | Transformer mimarisi | — |
-| 7 | BERT ve türevleri | — |
-| 8 | Uygulama: Duygu Analizi | — |
-| 9 | RAG ve Bilgi Getirme | — |
-| 10 | Çok dilli NLP | — |
-| 11 | Değerlendirme metrikleri | — |
-| 12 | Proje sunumları | — |
+| 2 | Giris| [slaytlar/1-Giris.pdf](#) |
+| 3 | Yürütme Zamanı ve Asimptotik Analiz  | [slaytlar/2-Yürütme Zamanı ve Asimptotik Analiz.pdf](#) |
+| 4 | Recursive Algoritmalar ve Rekurans Analizi | [slaytlar/3-Recursive Algoritmalar ve Rekurans Analizi.pdf](#) |
+| 5 | Dinamik Programlama| [slaytlar/5-Dinamik Programlama.pdf](#) |
+| 6 | Binary Tree Balance | [slaytlar/6-Binary Tree Balance.pdf](#) |
+| 7 | Dizi Karşılaştırma| [slaytlar/7-Dizi Karşılaştırma.pdf](#) |
+| 8 | Graflar| [slaytlar/8-Graflar.pdf](#) |
+| 9 | Heap | [slaytlar/9-Heap.pdf](#) |
