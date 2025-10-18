@@ -1,10 +1,10 @@
-title: "Ders Adı (Örnek: Doğal Dil İşleme)"
+title: "Ders Adı (BIL-377 ALGORİTMA UYGULAMALARI)"
 description: "Ders kaynakları, haftalık plan ve duyurular"
 lang: tr
 theme: minima
 author:
   name: "Dr. Abdulkadir Şeker"
-  email: "info@moledro.com"
+  email: "abdulkadir.seker@manas.edu.kg"
 minima:
   skin: classic
 markdown: kramdown
