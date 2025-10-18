@@ -5,7 +5,7 @@ title: "Ana Sayfa"
 BIL-377 
 Bilgisayar Mühendisliği
 
-> **Duyuru:** Ders Salı günleri saat clock1330 'da , **MFFB-523** sınıfında yapılacaktır.
+> **Duyuru:** Ders Salı günleri saat 13:30 🕥 'da , **MFFB-523** sınıfında yapılacaktır.
 
 ## Ders
 - **Ders Adı:** ALGORİTMA UYGULAMALARI
