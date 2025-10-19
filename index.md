@@ -2,10 +2,11 @@
 layout: home
 title: "Ana Sayfa"
 ---
-BIL-377 
+
+BIL-377  
 Bilgisayar Mühendisliği
 
-> **Duyuru:** Ders Salı günleri saat 13:30 🕥 'da , **MFFB-523** sınıfında yapılacaktır.
+> **Duyuru:** Ders Salı günleri saat 13:30 🕥'da, **MFFB-523** sınıfında yapılacaktır.
 
 ## Ders
 - **Ders Adı:** ALGORİTMA UYGULAMALARI
@@ -14,10 +15,10 @@ Bilgisayar Mühendisliği
 - **İletişim:** abdulkadir.seker@manas.edu.tr
 
 ## Haftalık Plan
-Ayrıntılar için **[İçerik](/lectures)** sayfasını ziyaret edin.
+Ayrıntılar için **[İçerik]({{ '/lectures' | relative_url }})** sayfasını ziyaret edin.
 
 ## Hızlı Bağlantılar
-- 📄 [Syllabus](/syllabus)
-- 🧭 [İçerik](/lectures)
-- 📝 [Ödevler](/assignments)
-- 📚 [Kaynaklar](/resources)
+- 🧭 [İçerik]({{ '/lectures' | relative_url }})
+- 📝 [Ödevler]({{ '/assignments' | relative_url }})
+- 📚 [Kaynaklar]({{ '/resources' | relative_url }})
+
