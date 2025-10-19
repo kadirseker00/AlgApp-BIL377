@@ -13,6 +13,7 @@ title: "Ana Sayfa"
     </p>
     <a class="btn" href="{{ '/syllabus' | relative_url }}">📄 Ders İzlencesi</a>
     <a class="btn" href="{{ '/lectures' | relative_url }}" style="margin-left:8px">🧭 İçerik</a>
+    <a class="btn" href="{{ '/assignments' | relative_url }}" style="margin-left:8px">🧭 Ödevler</a>
   </div>
 
   <div style="flex:1;min-width:220px;text-align:center">
@@ -28,13 +29,3 @@ title: "Ana Sayfa"
 
 > 💬 **Duyuru:** Ders materyalleri ve ödev yönergeleri haftalık olarak bu sayfa üzerinden paylaşılacaktır.
 
-## 🔗 Hızlı Bağlantılar
-- 📄 [Syllabus]({{ '/syllabus' | relative_url }})
-- 🧭 [İçerik]({{ '/lectures' | relative_url }})
-- 📝 [Ödevler]({{ '/assignments' | relative_url }})
-- 📚 [Kaynaklar]({{ '/resources' | relative_url }})
-
----
-
-## 📅 Haftalık Plan
-Ders içeriği, konular ve slaytlar için **[İçerik]({{ '/lectures' | relative_url }})** sayfasını ziyaret edin.
