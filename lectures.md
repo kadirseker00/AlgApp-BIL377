@@ -4,7 +4,7 @@ title: içerik
 permalink: /lectures
 ---
 
-Aşağıdaki tablo, haftalık konu akışını içerir. Slaytlar ve notlar ders sonrası eklenecektir.
+Aşağıdaki tablo, haftalık konu akışını içerir. 
 
 | Hafta | Konu |
 |---|---|
