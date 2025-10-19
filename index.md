@@ -6,7 +6,7 @@ title: "Ana Sayfa"
 <div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap">
   <div style="flex:1;min-width:260px">
     <h1 style="margin-top:0;color:var(--accent)">Algoritma Uygulamaları (BIL-377)</h1>
-    <h3 style="margin-top:4px;color:var(--muted)">Bilgisayar Mühendisliği Bölümü — Kırgız-Türk Manas Üniversitesi</h3>
+    <h3 style="margin-top:4px;color:var(--muted)">Bilgisayar Mühendisliği Bölümü — KTMU</h3>
     <p style="margin:16px 0 24px 0;color:var(--text)">
       <strong>Ders Zamanı:</strong> Salı günleri 13:30 🕥  
       <br><strong>Sınıf:</strong> MFFB-523  
