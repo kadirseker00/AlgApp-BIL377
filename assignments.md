@@ -4,16 +4,6 @@ title: Ödevler
 permalink: /assignments
 ---
 
-### Ödev 1 — Metin Temizleme & N-Gram Analizi
-
-
-
----
-layout: page
-title: Ödevler
-permalink: /assignments
----
-
 ### 💡 Ödev 1 — Dinamik Programlama (DP) Konu Sunumları
 Her öğrenci aşağıdaki DP problemlerinden **birini seçerek**:
 1. Problemin tanımını ve amaçlarını yazacak  
