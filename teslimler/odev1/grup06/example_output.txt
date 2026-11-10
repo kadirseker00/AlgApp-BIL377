@@ -1,0 +1,25 @@
+Girdi: [1, 5, 11, 5]   toplam = 22
+Hedef = toplam / 2 = 11
+        j:  0  1  2  3  4  5  6  7  8  9 10 11
+        {}  T  F  F  F  F  F  F  F  F  F  F  F
+      a1=1  T  T  F  F  F  F  F  F  F  F  F  F
+      a2=5  T  T  F  F  F  T  T  F  F  F  F  F
+     a3=11  T  T  F  F  F  T  T  F  F  F  F  T
+      a4=5  T  T  F  F  F  T  T  F  F  F  T  T
+Bölme: [11] (toplam 11)  |  [1, 5, 5] (toplam 11)
+Çıktı: True
+
+Girdi: [2, 2, 3, 5]   toplam = 12
+Hedef = toplam / 2 = 6
+        j:  0  1  2  3  4  5  6
+        {}  T  F  F  F  F  F  F
+      a1=2  T  F  T  F  F  F  F
+      a2=2  T  F  T  F  T  F  F
+      a3=3  T  F  T  T  T  T  F
+      a4=5  T  F  T  T  T  T  F
+Çıktı: False
+
+Girdi: [1, 2, 3, 5]   toplam = 11
+Toplam tek sayı -> eşit bölme imkânsız.
+Çıktı: False
+
